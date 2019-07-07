@@ -24,7 +24,14 @@ dotsyncrc
 #ctags/ctags
 #cmus
 #curl/curlrc
-#git/gitconfig
+gitconfig
+gitignore_global
+emacs.d/init.el
+spacemacs
+xinitrc
+bashrc
+Xmodmap
+Xresources
 #git/gitignore
 #git/gitattributes
 #git/tigrc
